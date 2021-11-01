@@ -1,4 +1,4 @@
-# Sorting-algorith-visualizer
+# Sorting-algorithm-visualizer
 Visualizes different sorting algorithms with complexity analysis
 Open index.html file to start working with visualizer.
 All javascript scripts are in scripts folder.
